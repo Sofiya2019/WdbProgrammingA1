@@ -1,0 +1,45 @@
+body {
+background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  text-align: center;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 16%;
+}
+
+h2 {
+	color: purple;
+	text-align: center;
+	font-size: 120%
+}
+
+h3 {
+	color: purple;
+	text-align: center;
+	font-size: 120%
+}
+
+table {
+  font-family: georgia, sans-serif;
+  border-collapse: collapse;
+  width: 40%;
+}
+
+td, th {
+  border:none;
+  text-align: left;
+  padding: 4px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
