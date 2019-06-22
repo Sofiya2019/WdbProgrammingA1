@@ -1,0 +1,32 @@
+
+h1 {
+  color: maroon;
+  text-align: center;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+
+h2 {
+	color: purple;
+	text-align: center;
+	font-size: 120%
+}
+
+#para  {
+  color: black;
+  text-align: center;
+  font-family: georgia;
+  font-size: 100%;
+}
+
+#para2  {
+  color: black;
+  text-align: center;
+  font-family: georgia;
+  font-size: 100%;
+}
+
+body {
+background-color: linen;
+}
